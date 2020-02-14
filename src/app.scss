@@ -1,0 +1,15 @@
+$fontSize: 100px;
+
+body {
+  background-color: lightgreen;
+}
+h1 {
+  color: red;
+  font-size: $fontSize;
+}
+h2 {
+  color: blue;
+}
+p {
+  color: grey;
+}
